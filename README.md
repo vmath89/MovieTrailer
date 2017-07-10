@@ -8,5 +8,5 @@ Python 2.7 or higher
 ```
 git clone https://github.com/vmath89/MovieTrailer.git
 cd MovieTrailer
-python entertainment.py
+python entertainment_center.py
 ```
